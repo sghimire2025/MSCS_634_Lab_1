@@ -1,5 +1,11 @@
 # MSCS 634 – Lab 1: Data Visualization, Preprocessing, and Statistical Analysis
 
+**Name:** Suresh Ghimire  
+**Course:** Advanced Big Data and Data Mining (MSCS-634-M20)
+
+**Lab Assignment:** Lab 1  
+**Tools Used:** Python, Pandas, Matplotlib, Seaborn
+
 ## Overview
 This lab applies core data analysis techniques using Python to explore, preprocess, and statistically analyze a real-world dataset. The objective is to gain hands-on experience with data visualization, data cleaning, and statistical interpretation while preparing structured data for deeper analytical tasks.
 
