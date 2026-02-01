@@ -56,7 +56,7 @@ The following visualizations were created:
 - ![Scatter Plot : Age vs Total Amount](screenshots/age_vs_total.png)
 - ![Line Plot: Total Sales Over Time](screenshots/line_plot_total_sales_over_time.png)
 - ![Bar Chart: Total Sales By Product](screenshots/bar_chart_total_sales_by_product.png)
-- ![Histogram: Distribution of Customer Age](screenshots/histogram_distribution_cutomer_ag.png)
+- ![Histogram: Distribution of Customer Age](screenshots/histogram_distribution_cutomer_age.png)
 - ![Pie Chart: Proportion of Sales by Product Category](screenshots/pie_chart_proportion_sales_by_product.png)
 ---
 
@@ -114,7 +114,7 @@ Variance, standard deviation, quartiles, and IQR were computed.
 
 **Screenshot :**
 - ![Dispersion Measure](screenshots/dispersion_measures.png)
-- ![Quartiles IQR](screenshots/quartiles_iqr.png)
+- ![Quartiles IQR](screenshots/quartile_iqr.png)
 
 ### Correlation Analysis
 A correlation matrix was generated for numerical variables.
